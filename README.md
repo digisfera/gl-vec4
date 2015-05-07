@@ -1,4 +1,4 @@
-Some vec4 functions from [gl-matrix]](http://github.com/toji/gl-matrix).
+Some vec4 functions from [gl-matrix](http://github.com/toji/gl-matrix).
 
 
 ## Usage
