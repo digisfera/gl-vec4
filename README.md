@@ -14,6 +14,7 @@ For example, the following are equivalent:
 ``` javascript
 var set = require('gl-vec4').set
 var set = require('gl-vec4/set')
+```
 
 
 ## API
