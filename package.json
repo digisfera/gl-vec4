@@ -1,0 +1,37 @@
+{
+  "name": "gl-vec4",
+  "version": "0.0.1",
+  "description": "some of gl-matrix's vec4, split into smaller pieces",
+  "main": "index.js",
+  "scripts": {
+    "get-docs": "cat *.js | dox --api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digisfera/gl-vec4.git"
+  },
+  "keywords": [
+    "gl-matrix",
+    "matrix",
+    "math",
+    "gl",
+    "vec4",
+    "mat",
+    "vector",
+    "maths"
+  ],
+  "license": {
+    "type": "Zlib",
+    "url": "http://github.com/digisfera/gl-vec4/blob/master/LICENSE.md"
+  },
+  "contributors": [
+    {
+      "name": "Manuel Cabral",
+      "email": "m.cabral@digisfera.com"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "dox": "git://github.com/hughsk/dox.git#api-context"
+  }
+}
