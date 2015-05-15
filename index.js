@@ -1,5 +1,23 @@
 module.exports = {
+  add: require('./add'),
+  clone: require('./clone'),
   create: require('./create'),
+  copy: require('./copy'),
+  divide: require('./divide'),
+  dot: require('./dot'),
+  fromValues: require('./fromValues'),
+  inverse: require('./inverse'),
+  length: require('./length'),
+  lerp: require('./lerp'),
+  max: require('./max'),
+  min: require('./min'),
+  multiply: require('./multiply'),
+  negate: require('./negate'),
+  normalize: require('./normalize'),
+  scale: require('./scale'),
   set: require('./set'),
+  str: require('./str'),
+  subtract: require('./subtract'),
+  transformQuat: require('./transformQuat'),
   transformMat4: require('./transformMat4')
-}
+};
